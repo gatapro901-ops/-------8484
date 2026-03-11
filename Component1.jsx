@@ -1,0 +1,1 @@
+import React from 'react'; const Menu = () => { return ( <ul className='menu'> <li><a href='#'>طاعمية 5﷼</a></li> <li><a href='#'>فول 2﷼</a></li> </ul> ); }; export default Menu;
